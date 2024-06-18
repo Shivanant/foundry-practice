@@ -1,0 +1,8 @@
+upgrades proxys and delegate calls are important in auditing
+
+
+proxy: in blockchain means that the address is same but the underling code can be changed.
+it means it is not truly decentralized and therefore 
+
+auditing:
+https://github.com/Cyfrin/3-passwordstore-audit/blob/onboarded/minimal-onboarding-questions.md
